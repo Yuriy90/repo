@@ -1,0 +1,36 @@
+body{
+    background-image: url(img/Lenovo-wallpaper-6_DcyKDyp.jpg);
+}
+#firstBlock{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    margin: auto;
+        background-color: white;
+     
+
+
+}
+#secondBlock{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    margin: auto;
+    background-color: white;
+}
+.form1{
+    width: 100px;
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+      
+}
+#thirdBlock{width: 80%;
+    height: 80%;
+   
+    border: 1px solid black;
+    margin: 10px auto;
+    display: none;
+    
+}
